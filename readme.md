@@ -47,8 +47,8 @@ k - nearest neighours algorithm is a classification algorithm that group data po
 4. Then created a method `fit` that help get the data.
 
 5. Then created our distance measure `euclidean_distance` from the formular below.
-    ![alt euclidean](./img/euclide.svg)
-    with the help of numpy I was able to compress the complexity
+   <img src="./img/euclide.svg" styles="backgroud-color:white;">
+   with the help of numpy I was able to compress the complexity
 
 6.  `_predict` helper function was created to give the ability to `predict` to predict the class
     the `_predict` functions first of all calculates the distances of the train data point from the new point
