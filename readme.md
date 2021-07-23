@@ -11,8 +11,10 @@ k - nearest neighours algorithm is a classification algorithm that group data po
 1. It starts with a ready classified data
     ![alt data-image](\img\class.png)
 2. a new point to classify is added
+    
     ![alt new-point](./img/new_point.png)
 3. based on the proximity measure which is usually euclidean distance 
+    
 ![alt euclidean](./img/euclidean.png) 
 ,the number of neighbours(K) closest to the new point will be Identified.
 
