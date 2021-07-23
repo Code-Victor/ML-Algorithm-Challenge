@@ -1,6 +1,7 @@
 <center><H1>AI Plus OAU Algorithm Challenge<H1></center>
 <center><img src=".\img\ai.png" height="300px"></center>
 
+## Name:hamzat victor olubori
 
 ## Project Objective:Build the K-Nearest Neighbours algorithm
 
